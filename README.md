@@ -1,108 +1,49 @@
-# Project Title
+# Coding Kata Catalog (a "katalog" per se)
 
-One Paragraph of project description goes here
+---
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNocTVwb3JwYXgwNDlzYnkyaDNqaDRncGZodDk3cnpsYzY2OHk4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-This initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
+Welcome to the Coding Kata Catalog!
+
+This repository is a comprehensive collection of coding katas that have been successfully solved.
 
 ## Summary
 
+  - [What Are Coding Katas?](#what-are-coding-katas)
+  - [How to Use This Repository](#how-to-use-this-repository)
   - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+  - [Contribution Guidelines](#contribution-guidelines)
+
+## What Are Coding Katas?
+
+Coding katas are structured coding challenges that provide opportunities to practice and refine your programming skills. They cover a wide range of concepts, algorithms, and data structures, making them an excellent tool for skill development and learning new coding techniques.
+
+## How to Use This Repository
+
+1. **Browse the Katas**: Explore the folders to find an array of resolved coding katas. Each kata includes a README.md file with the problem description, solution approach, and sometimes, the actual code implementation.
+
+2. **Learn and Analyze**: Dive into the solution explanations provided for each kata. Understand the thought process, algorithmic decisions, and coding practices that were used to arrive at the solution.
+
+3. **Experiment and Compare**: Feel free to experiment with alternative solutions or optimizations. Compare your approach with the ones provided and observe different strategies for solving the same problem.
+
+4. **Contribute and Share**: If you have additional insights, improvements, or alternative solutions for a resolved kata, you're encouraged to contribute by submitting a pull request. Collaborative learning benefits the entire community!
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+To get started, you can explore the katas right here on GitHub. Simply click on the folder corresponding to the kata you're interested in. Read the **README.md** file to understand the problem statement and delve into the solution details.
 
-### Prerequisites
+## Contribution Guidelines
 
-What things you need to install the software and how to install them
+Contributions to the Resolved Coding Kata Catalog are welcome and greatly appreciated. 
+If you have an innovative approach, an optimization, or want to share your solution in a different programming language, follow these steps:
 
-    Give examples
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your contribution: git checkout -b new-kata-solution.
+3. Add your solution folder with the necessary files and an informative README.md.
+4. Submit a pull request, detailing your solution strategy, explanations, and any relevant code snippets.
 
-### Installing
+Let's build a rich resource of well-documented and diverse kata solutions that benefit coders of all levels!
 
-A step by step series of examples that tell you how to get a development
-env running
+Start your exploration of solved coding katas and unlock insights into effective programming practices. 
 
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### And coding style tests
-
-Explain what these tests test and why
-
-    Give an example
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-## Acknowledgments
-
-  - Hat tip to anyone whose code was used
-  - Inspiration
-  - etc
-
+Happy coding!
