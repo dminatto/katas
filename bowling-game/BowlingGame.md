@@ -9,6 +9,7 @@ The Bowling Game Kata is a classic coding exercise used to practice test-driven 
 The objective of this kata is to create a program that can calculate the score of a game of bowling based on the rolls of the player. The game consists of ten frames, and each frame can have up to two rolls. The score is calculated by adding up the pins knocked down in each frame, with bonuses for strikes and spares.
 
 ## Rules
+
 1. Each game consists of ten frames.
 2. In each frame, the player has two rolls to knock down ten pins.
 3. If the player knocks down all ten pins with their first roll (a strike), they receive a bonus of the next two rolls.
